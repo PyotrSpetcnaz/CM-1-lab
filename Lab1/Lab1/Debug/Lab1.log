@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\home\projects\chislmet\lab1\lab1\main.cpp(51): warning C4018: '<': signed/unsigned mismatch
+c:\users\home\projects\chislmet\lab1\lab1\main.cpp(58): warning C4018: '<': signed/unsigned mismatch
+c:\users\home\projects\chislmet\lab1\lab1\main.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\home\projects\chislmet\lab1\lab1\main.cpp(88): warning C4018: '<': signed/unsigned mismatch
+c:\users\home\projects\chislmet\lab1\lab1\main.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\home\projects\chislmet\lab1\lab1\main.cpp(115): warning C4018: '<': signed/unsigned mismatch
+  Lab1.vcxproj -> C:\Users\Home\projects\ChislMet\Lab1\Debug\Lab1.exe
+  Lab1.vcxproj -> C:\Users\Home\projects\ChislMet\Lab1\Debug\Lab1.pdb (Partial PDB)
